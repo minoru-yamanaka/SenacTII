@@ -21,7 +21,9 @@ Desenvolver aplicações para web e mobile com diferentes linguagens de programa
 - Documentar etapas de desenvolvimento de software
 - Aplicar comandos da linguagem SQL
 
-  [Mais detalhes deste curso aqui](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica-para-internet)
+[Mais detalhes deste curso aqui](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica-para-internet)
+
+[PDF](https://congenit.sp.senac.br/congenit/services/corporateenv/corporateenv_getstream.jsp?cid=13&mid=1&id=88571&ver=1&ln=pt_BR&attrid=9&pos=3&_gl=1*x3ufkq*_gcl_au*MTYxMjIwODMyMC4xNzIzMDY4MDA5*_ga*NjcxMzMzOTIzLjE3MjMwNjgwMDk.*_ga_Z1SEVXH7G0*MTcyMzE2MDM3NC40LjAuMTcyMzE2MDM3NC42MC4wLjA.)
 
 
 ## 👨‍💻 Bruxo
